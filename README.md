@@ -2,6 +2,24 @@
 
 `BadgeNumberManager`支持国产主流手机品牌(华为、小米、OPPO、vivo)的桌面角标设置。
 
+[![](https://jitpack.io/v/LAXlerbo/BadgeNumberManager.svg)](https://jitpack.io/#LAXlerbo/BadgeNumberManager)
+
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  ```
+
+```
+dependencies {
+	        implementation 'com.github.LAXlerbo:BadgeNumberManager:1.0.0'
+	}
+
+```
+
 
 # Demo演示截图
 
